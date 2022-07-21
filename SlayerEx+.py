@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #Semoga yang curi script yatim
-#Ddos by XalBadoR
+#Ddos by SlayerEx
 #Join My T3Am : https://discord.gg/pornhub
 import random
 import socket
